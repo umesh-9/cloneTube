@@ -30,7 +30,7 @@ const Feed = () => {
           variant="body2"
           sx={{ mt: 1.5, color: "#fff" }}
         >
-          copyright 2023 jsm
+          copyright 2023 @VidVibe App
         </Typography>
       </Box>
       <Box p={2} sx={{ overflow: "auto", height: "90vh", flex: 2 }}>
